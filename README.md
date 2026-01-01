@@ -26,7 +26,7 @@ This project takes on an learning-focused and explanatory approach to PD modelli
 **Steps:**
 1. Clone this repository
 ```
-https://github.com/TounseA/pd-modelling.git
+git clone https://github.com/TounseA/pd-modelling.git
 ```
 
 2. Optional: Install dependencies
@@ -49,4 +49,5 @@ pip install -r requirements.txt
 <p align='center'>
     <img src = 'figures/compared_curve.png' alt='Calibration curve comparison'>
 </p>
+
 
